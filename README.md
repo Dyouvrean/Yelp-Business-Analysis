@@ -14,3 +14,10 @@ GET_DATA.ipynb
 | yelp_dataset_checkin.db  |checkin|
 |yelp_dataset_users.db| users|
 |yelp_dataset_reviews.db| reviews
+
+### Cohort analysis
+Cohort.ipynb
+* Load data
+* Calculate percentage of retain(total reviews/yelp usage)
+* Calculate percentage of retain(for each business)
+* Calculate percentage retained for closed business and open business
