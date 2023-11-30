@@ -21,3 +21,4 @@ Cohort.ipynb
 * Calculate percentage of retain(total reviews/yelp usage)
 * Calculate percentage of retain(for each business)
 * Calculate percentage retained for closed business and open business
+#### Survivorship
