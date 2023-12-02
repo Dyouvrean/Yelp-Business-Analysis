@@ -4,3 +4,5 @@ yelp_dataset_checkin.db
 yelp_dataset_reviews.db
 yelp_dataset_tips.db
 yelp_dataset_users.db
+.env
+word2vec.model
